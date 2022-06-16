@@ -397,7 +397,7 @@ export default (e) => {
 
   // creating audio with space bar click
   const audioTrackInformation = {
-    source: 'https://res.cloudinary.com/dsljhoyvt/video/upload/v1655407014/y2mate.com_-_PLAYAMANE_x_Nateki_MIDNIGHT_izyaw1.mp3',
+    source: 'https://res.cloudinary.com/dsljhoyvt/video/upload/v1655413388/EDM_Anime_Party_by_Infraction_No_C_getmp3.pro_1_fjgomt.mp3',
     autoPlay: true,
     // currentTime: 100.2,
   };
