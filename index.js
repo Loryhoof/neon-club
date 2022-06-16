@@ -397,7 +397,7 @@ export default (e) => {
 
   // creating audio with space bar click
   const audioTrackInformation = {
-    source: 'https://github.com/Loryhoof/asdasdsdaasd/blob/main/y2mate.com%20-%20RUSH%20E.mp3?raw=true',
+    source: 'https://github.com/Loryhoof/asdasdsdaasd/blob/main/y2mate.com%20-%20RUSH%20E.mp3',
     autoPlay: true,
     // currentTime: 100.2,
   };
